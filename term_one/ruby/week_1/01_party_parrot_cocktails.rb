@@ -1,5 +1,5 @@
 # you are working at a bar where you have a current backlog of drinks to make:
-#  3 party parrot cocktails
+# 3 party parrot cocktails
 # 2 party parrot waters
 # and
 # 6 party parrot beers
