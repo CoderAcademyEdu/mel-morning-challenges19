@@ -1,6 +1,6 @@
 # Core
 
-# The year is 2025, and Tinder is running the world. Create a method, that will take an array of 5 names, entered by the user, and will use a ruby method to print out a random person from the array that the user has been matched with
+# Create a method, that will take an array of 5 names, entered by the user, and will use a ruby method to print out a random person from the array that the user has been matched with
 
 # Advanced
 
