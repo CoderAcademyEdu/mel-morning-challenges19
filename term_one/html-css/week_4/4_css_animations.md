@@ -6,3 +6,5 @@ You have two options.
 
 1. Watch this [leveluptutorials series](https://www.leveluptutorials.com/tutorials/css-experiments/) and code along
 2. Read through the [Mozilla using CSS animations documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) and implement some of the examples
+
+If you would like some extra ruby practice please complete the following exercise https://github.com/CoderAcademy-MEL/ruby-fundamentals-path/blob/master/2_accessing.rb

@@ -5,3 +5,5 @@
 - Using only your keyboard: Open your browser
 - Using only your keyboard: Head to Google
 - Using only your keyboard: Get the phone number for Domino's Pizza Bentleigh 
+
+Once you're finished complete the following ruby exercise https://github.com/CoderAcademy-MEL/ruby-fundamentals-path/blob/master/5_big_object.rb
