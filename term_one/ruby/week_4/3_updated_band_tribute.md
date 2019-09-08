@@ -1,0 +1,11 @@
+### Band tribute site
+- Update and improve your band tribute site using the skills you've learned so far
+- Create a new git branch for the new features
+- Create an external stylesheet and link it to the HTML
+- Add IDs and classes to elements as needed (Remember to limit the use of IDs)
+- Choose two Google fonts (one for headings, one for everything else), add them to your site
+- Set font colors, background colors and background images where appropriate
+- Re-organize your HTML into semantic elements (eg. navbar in a nav element, footer in a footer element, etc...)
+- Add margins, padding and borders to elements
+- Use positioning and/or floats to layout items in multiple columns or a grid (eg. discography)
+- Make your navbar and footer fixed position elements
