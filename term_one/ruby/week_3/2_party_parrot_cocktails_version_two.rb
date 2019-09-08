@@ -1,4 +1,4 @@
-# 1. Use CASE statement to rewrite the problem below to repeatedly take orders for drinks. Start all the drink numbers at 0, and when they reach 10 drinks in total, inform the user that it's time to go home. 
+# 1. Use case statement to rewrite the problem below to repeatedly take orders for drinks. Start all the drink numbers at 0, and when they reach 10 drinks in total, inform the user that it's time to go home. 
 
 # you are working at a bar where you have a current backlog of drinks to make:
 # 3 party parrot cocktails
