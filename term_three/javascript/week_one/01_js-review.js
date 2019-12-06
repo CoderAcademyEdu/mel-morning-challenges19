@@ -2,7 +2,7 @@ Core:
 // (1) - Object Destructuring
 // Declare a fat arrow function called mult() that will multiply values of the x, y, z fields of the passed object.
 
-var obj = {
+let obj = {
   x: 5,
   y: 20,
   z: 3
@@ -16,9 +16,9 @@ console.log(mult(obj));
 // (2) - Destructuring and Rest Operator
 // Assign values to the a, b, c variables using destructuring and rest operator.
 
-var a, b, c;
+let a, b, c;
 
-var arr = [1, 2, 3, 4, 5, 6, 7];
+let arr = [1, 2, 3, 4, 5, 6, 7];
 
 // Write code here
 

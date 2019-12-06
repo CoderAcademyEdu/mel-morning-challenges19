@@ -4,7 +4,7 @@ Core:
 // A car is considered expensive if it's price is > 20,000
 
 
-var cars = [
+let cars = [
     { brand: "Honda", price: 13000 },
     { brand: "Rolls-Royce", price: 120000 },
     { brand: "Holden", price: 20000 }
@@ -24,7 +24,7 @@ Advanced:
 
 
 function square(a) {
-    console.log(a * a);
+  console.log(a * a);
 }
 
 square(10);
