@@ -7,18 +7,22 @@
 
 // 1. Make a new directory named values-challenge, cd into that directory, create a new file in that directory named index.js 
 // 2. Copy this file and paste it into index.js 
-// 3. From the command line run:
+// 3. From the command line run these 2 commands:
 // npm init -y
 // npm i -D jest
 // 4. Make a directory inside values-challenge and name it tests
 // 5. Inside of tests create a file named index.test.js
-// 6. Copy the code under the Tests heading (below) and paste it into index.test.js
-// 7. In your package.json you'll have a scripts section with a "test" key value pair, replace the default value with the word jest
+// 6. Copy the code under the "Tests" (see below) and paste it into index.test.js
+// 7. In your package.json you'll have a scripts section with a "test" key value pair, replace the default value with the word "jest"
 // eg "test": "jest"
-// 8. Solve the challenge below based on the specs
-// 9. To verify if you've solved the code correctly you'll need to run the tests, to do this from the command line run:
+// 8. In index.js at the bottom of the file include this code 
+// module.exports = values
+// 9. In index.test.js at the top of the file include this code
+// const values = require('../index') 
+// 10. Solve the challenge below based on the specs
+// 11. To verify if you've solved the code correctly you'll need to run the tests, to do this from the command line run:
 // npm test
-// 10. If you get green check marks your tests are passing, if you get red crosses your tests are failing and something is wrong with your code
+// 12. If you get green check marks your tests are passing, if you get red crosses your tests are failing and something is wrong with your code
 
 // Specs
 
