@@ -10,9 +10,12 @@
 // 3. From the command line run these 2 commands:
 // npm init -y
 // npm i -D jest
+
+// This will install Jest https://jestjs.io/ as a development dependency, check your package.json and confirm jest is under devDependencies
+
 // 4. Make a directory inside values-challenge and name it tests
 // 5. Inside of tests create a file named index.test.js
-// 6. Copy the code under the "Tests" (see below) and paste it into index.test.js
+// 6. Copy the code under "Tests" (see below) and paste it into index.test.js
 // 7. In your package.json you'll have a scripts section with a "test" key value pair, replace the default value with the word "jest"
 // eg "test": "jest"
 // 8. In index.js at the bottom of the file include this code 
